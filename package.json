@@ -1,9 +1,9 @@
 {
-  "name": "PhaserES6Webpack",
+  "name": "DinosaurAdventure",
   "version": "1.0.0",
   "description": "",
-  "author": "leandro cabrera <leandcabrera@gmail.com>",
-  "main": "index.js",
+  "author": "zygg",
+  "main": "index.html",
   "scripts": {
     "dev": "webpack",
     "deploy": "webpack --config webpack.production.config.js",

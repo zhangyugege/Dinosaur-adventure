@@ -1,8 +1,5 @@
 /* globals __DEV__ */
 import Phaser from 'phaser'
-import Girl from '../sprites/Girl'
-import Part from '../sprites/Part'
-import Cat from '../sprites/Cat'
 import { centerGameObjects } from '../utils'
 import { Particles } from 'phaser-ce';
 
